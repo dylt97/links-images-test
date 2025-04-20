@@ -1,1 +1,1 @@
-# links-images-test
+test file for links and imaging
